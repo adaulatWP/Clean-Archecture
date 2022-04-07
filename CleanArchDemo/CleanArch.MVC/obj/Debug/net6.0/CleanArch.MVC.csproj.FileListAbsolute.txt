@@ -68,3 +68,9 @@ C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\obj\Deb
 C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.pdb
 C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.genruntimeconfig.cache
 C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\obj\Debug\net6.0\ref\CleanArch.MVC.dll
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\Users\azeem\source\repos\Clean-Archecture\CleanArchDemo\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Domain.pdb

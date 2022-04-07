@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KYueW82AWIdpY0KjlcT6Awv/zcoVobqEZhlMzKa/cIYeRnu+CMm5C1b67LpvP1k8TOvhRuafDG4lVohRyTI2Sg==",
+  "dgSpecHash": "nou3UizmzLW1r8tubwpVuseWhx3PPRemlC+umMI8LGL/j0UsK+oPTF21PApU35RajOvQK/TxeQJmW0q6KDCPuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\azeem\\source\\repos\\Clean-Archecture\\CleanArchDemo\\CleanArch.MVC\\CleanArch.MVC.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\microsoft.aspnetcore.identity.ui.6.0.3.nupkg.sha512",
-    "C:\\Users\\azeem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\azeem\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
+    "C:\\Users\\azeem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
@@ -42,6 +43,7 @@
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\azeem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\azeem\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

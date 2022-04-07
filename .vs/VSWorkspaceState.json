@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CleanArchDemo",
+    "\\CleanArchDemo\\CleanArch.Domain"
   ],
+  "SelectedNode": "\\CleanArchDemo",
   "PreviewInSolutionExplorer": false
 }
