@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchDemo",
-    "\\CleanArchDemo\\CleanArch.Domain"
+    "\\CleanArchDemo\\CleanArch.Domain",
+    "\\CleanArchDemo\\CleanArch.Infra.Data",
+    "\\CleanArchDemo\\CleanArch.Infra.Data\\Repository"
   ],
-  "SelectedNode": "\\CleanArchDemo",
+  "SelectedNode": "\\CleanArchDemo\\CleanArch.Infra.Data\\Repository\\CourseRepository.cs",
   "PreviewInSolutionExplorer": false
 }
